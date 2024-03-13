@@ -4,5 +4,5 @@
 
 
 .mention {
-  @apply font-semibold text-purple-600
+  @apply font-semibold text-purple-600 cursor-pointer
 }
